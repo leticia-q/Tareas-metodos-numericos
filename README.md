@@ -1,2 +1,2 @@
-# Tareas-metodos-numericos
-Leticia Soto 21695240-5
+# Tareas métodos numéricos
+Leticia Soto Q. Rut: 21695240-5
