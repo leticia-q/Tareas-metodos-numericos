@@ -72,3 +72,7 @@ $$P(E|M)=\frac{(0.18)(0.20)}{0.084}=0.4286$$
 Por lo tanto, la probabilidad de que una persona que presenta manchas rojas haya tenido la enfermedad es aproximadamente:
 $${42.86\%}$$
 """
+
+# Nota: 7.0
+# Base: 1/1; funcionamiento: 4/4; comentarios: 1/1; claridad: 1/1.
+# La derivación de la probabilidad condicionada es correcta y justifica claramente cada paso de la aplicación de Bayes.
