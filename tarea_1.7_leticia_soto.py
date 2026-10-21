@@ -19,3 +19,6 @@ suma = np.sum(np.exp(n) * (n + 1))
 
 # Se muestra el valor final de la sumatoria
 print(suma)
+
+# Nota: 7.0
+# Base: 1/1; funcionamiento: 4/4; comentarios: 1/1; claridad: 1/1.
