@@ -78,3 +78,7 @@ donde $\lambda$ se determina usando la condición de la varianza,
 
 $$\sigma^2 = \sum_i p_i x_i^2$$
 """
+
+# Nota: 7.0
+# Base: 1/1; funcionamiento: 4/4; comentarios: 1/1; claridad: 1/1.
+# 
