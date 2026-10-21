@@ -140,3 +140,7 @@ también diverge.
 
 Por lo tanto, $\langle x^4\rangle$ tampoco existe como momento finito.
 """
+
+# Nota: 7.0
+# Base: 1/1; funcionamiento: 4/4; comentarios: 1/1; claridad: 1/1.
+# 
