@@ -234,3 +234,7 @@ de condicionamiento puede crecer sin límite.
 Por lo tanto, se puede decir que
 $${\lim_{x\rightarrow\pm\infty}\kappa_f(x)\text{ no existe}}$$
 """
+
+# Nota: 7.0
+# Base: 1/1; funcionamiento: 4/4; comentarios: 1/1; claridad: 1/1.
+# Las derivaciones y el análisis de los límites y singularidades de las tres funciones son correctos y están bien explicados.
