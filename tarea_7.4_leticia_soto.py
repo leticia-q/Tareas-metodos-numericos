@@ -190,3 +190,6 @@ El método de cuadratura adaptativa aproxima correctamente la integral de la fun
 
 En general, el comportamiento observado es el esperado.
 """
+
+# Nota: 7.0
+# Base: 1/1; funcionamiento: 4/4; comentarios: 1/1; claridad: 1/1.
