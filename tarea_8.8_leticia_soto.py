@@ -167,3 +167,6 @@ El gráfico muestra que para los tres métodos el error disminuye a medida que h
 
 Este comportamiento es compatible con lo esperado teóricamente, ya que el error de Euler de orden $O(h)$, mientras que para Taylor de orden 2 y 3 es de orden $O(h^2)$ y $O(h3)$ respectivamente. Por esto, los métodos de mayor orden resultan ser más precisos cuando disminuye $h$.
 """
+
+# Nota: 7.0
+# Base: 1/1; funcionamiento: 4/4; comentarios: 1/1; claridad: 1/1.
