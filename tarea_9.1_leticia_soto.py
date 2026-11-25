@@ -226,3 +226,6 @@ utilizando 126 evaluaciones de $f$.
 
 Por lo tanto, para este problema RKF resulta ser más eficiente, ya que alcanza una precisión similar y con un menor número de evaluaciones. Esto se debe a que RKF adapta automáticamente el tamaño del paso según el error estimado, utilizando pasos pequeños sólo cuando se requiere mayor precisión y pasos mayores en las regiones donde la solución varía de manera más suave.
 """
+
+# Nota: 7.0
+# Base: 1/1; funcionamiento: 4/4; comentarios: 1/1; claridad: 1/1.
